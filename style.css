@@ -6,7 +6,7 @@
 body{
 	background-color: #B18904;
 }
-img{
+.logo{
 	width: 150px;
 	height: 150px;
 	margin-top: 0.5rem;
@@ -84,7 +84,7 @@ button:hover span:after{
 .formcontainer{
 	max-width: 1000px;
 	min-height: 800px;
-	background-color: #FFBF00;
+	background-color: #DBA901;
 	padding: 50px;
 	float: right;
 	border-radius: 10px;
@@ -102,5 +102,3 @@ button:hover span:after{
 	height: 40px;
 	position:absolute;
 	transform: translate(215%, -125%)
-
-}
