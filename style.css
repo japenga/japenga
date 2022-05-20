@@ -20,7 +20,6 @@ h1{
 	max-width: 400px;
 	font-size: 1.2rem;
 	padding: 10px;
-	border-radius: 15px;
 
 }
 button{
@@ -70,7 +69,7 @@ button:hover span:after{
 }
 .container{
 
-	
+	width: 1000px;
 	margin: auto;
 	min-height: 100vh;
 	display: flex;
@@ -83,17 +82,25 @@ button:hover span:after{
 	
 }
 .formcontainer{
-	max-width: 300px;
-	min-height: 750px;
+	max-width: 800px;
+	min-height: 800px;
 	background-color: #FFBF00;
 	padding: 50px;
 	float: right;
 	border-radius: 10px;
+	
 }
 .redesimg{
 	width: 40px;
 	height: 40px;
-	
-	
+	bottom: 5px;
+
 }
 
+.rede1{
+	width: 40px;
+	height: 40px;
+	position:absolute;
+	transform: translate(215%, -125%)
+
+}
