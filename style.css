@@ -69,7 +69,7 @@ button:hover span:after{
 }
 .container{
 
-	width: 400px;
+	width: 600px;
 	margin: auto;
 	min-height: 100vh;
 	display: flex;
@@ -82,7 +82,7 @@ button:hover span:after{
 	
 }
 .formcontainer{
-	max-width: 800px;
+	max-width: 1000px;
 	min-height: 800px;
 	background-color: #FFBF00;
 	padding: 50px;
