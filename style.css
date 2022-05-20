@@ -27,7 +27,7 @@ button{
 	transform: translateX(-2px);
 	display: inline-block;
 	border-radius: 10px;
-	background-image: linear-gradient(45deg, #DBA901, #B18904);
+	background-image: linear-gradient(45deg, #FEB301, #4C3C17);
 	border: none;
 	color: #FFFFFF;
 	text-align: center;
@@ -85,7 +85,7 @@ button:hover span:after{
 .formcontainer{
 	max-width: 1000px;
 	min-height: 800px;
-	background-color: #DBA901;
+	background-color:rgba(0, 0, 0, 0.2) #FEB301;
 	padding: 50px;
 	float: right;
 	border-radius: 10px;
