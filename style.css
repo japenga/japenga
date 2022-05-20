@@ -27,8 +27,8 @@ button{
 	transform: translateX(-2px);
 	display: inline-block;
 	border-radius: 10px;
-	background-image: linear-gradient(45deg, #FEB301, #4C3C17);
-	border: none;
+	background-image: linear-gradient(45deg, #FEB301, #AB7802);
+	border: 10px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 15px;
@@ -55,6 +55,7 @@ button span:after{
 }
 button:hover span{
 	padding-right: 25px;
+	box-shadow: 10px;
 }
 button:hover span:after{
 	opacity: 1;
@@ -85,10 +86,11 @@ button:hover span:after{
 .formcontainer{
 	max-width: 1000px;
 	min-height: 800px;
-	background-color:rgba(0, 0, 0, 0.2) #FEB301;
+	background-color:rgba(0, 0, 0, 0.2);
 	padding: 50px;
 	float: right;
 	border-radius: 10px;
+	border: 1px;
 	
 }
 .redesimg{
