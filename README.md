@@ -1,1 +1,1 @@
-# japenga.github.io
+# japenga.io
