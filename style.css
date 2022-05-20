@@ -92,6 +92,7 @@ button:hover span:after{
 	float: right;
 	border-radius: 10px;
 	border: 1px;
+	position: relative;
 	
 }
 .redesimg{
@@ -107,3 +108,19 @@ button:hover span:after{
 	position:absolute;
 	transform: translate(215%, -105%)
 }
+
+.horario{
+	color: white;
+	font-size: 15x;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+h2{
+	font-size: 15px;
+	position: relative;
+	top: 0;
+	left: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
